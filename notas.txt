@@ -1,0 +1,4 @@
+Este mini juego repersenta la pantalla donde horacio decide tomar el camino sin rastros y 
+se encuentra con una cueva de esos y tiene que escapar de ellos
+
+Se juega con flechas izquierda y derecha
